@@ -565,4 +565,4 @@ Test with three different portrait videos to validate:
 
 ---
 
-*Built as part of an Android ML engineering internship assignment.*
+
